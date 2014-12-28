@@ -1,5 +1,5 @@
 require './app'
-require_relative 'model/notification.rb'
+require_relative 'model/NBANotify.rb'
 
 namespace :db do
   desc "Create data store"
